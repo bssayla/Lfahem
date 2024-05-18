@@ -1,5 +1,10 @@
+<div align="center">
+
 # Lfahem: Your AI Legal Assistant for Moroccan Law
-![hackathon](https://user-images.githubusercontent.com/36594527/117592199-10730800-b17b-11eb-84f8-4ffcae8116d4.png)
+
+![Description of the image](https://user-images.githubusercontent.com/36594527/117592199-10730800-b17b-11eb-84f8-4ffcae8116d4.png)
+
+</div>
 
 
 Welcome to **Lfahem**, an AI-powered chatbot designed to assist Moroccan citizens with their legal questions. 
