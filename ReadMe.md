@@ -32,11 +32,11 @@ pip install -r requirements.txt
 ```
 
 ## Results
-### Before using ROG
+### Before using RAG
 
-<img src="images/before.jpeg" alt="image Before ROG">
+<img src="images/before.jpeg" alt="image Before RAG">
 
-### After using ROG
+### After using RAG
 
-<img src="images/after1.jpeg" alt="image After ROG">
+<img src="images/after1.jpeg" alt="image After RAG">
 
