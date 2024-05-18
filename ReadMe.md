@@ -31,5 +31,12 @@ cd lfahem
 pip install -r requirements.txt
 ```
 
+## Results
+### Before using ROG
 
+<img src="images/before.jpeg" alt="image Before ROG">
+
+### After using ROG
+
+<img src="images/after1.jpeg" alt="image After ROG">
 
