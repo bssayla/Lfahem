@@ -2,7 +2,8 @@
 
 # Lfahem: Your AI Legal Assistant for Moroccan Law
 
-![Description of the image](https://user-images.githubusercontent.com/36594527/117592199-10730800-b17b-11eb-84f8-4ffcae8116d4.png)
+<img src="images/tai.png" alt="cover_image_thinkai">
+
 
 </div>
 
