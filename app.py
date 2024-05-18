@@ -2,7 +2,6 @@ import streamlit as st
 import transformers
 from torch import bfloat16, cuda
 
-@st.cache(allow_output_mutation=True)
 def load_model():
     model_id = 'meta-llama/Meta-Llama-3-8B-Instruct'
     device = f'cuda:{cuda.current_device()}' if cuda.is_available() else 'cpu'
