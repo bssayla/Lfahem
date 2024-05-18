@@ -13,7 +13,7 @@ def load_model():
         bnb_4bit_compute_dtype=bfloat16
     )
     model = transformers.AutoModel.from_pretrained(model_id, config=bnb_config)
-    tokenizer = transformers.AutoTokenizer.from_pretrained(model_id)
+    tokenizer = transformers.AutoTokenizer.from_pretrained(model_id,use_auth_token=st.secrets["hf_tkn"])
     return model, tokenizer, device
 
 model, tokenizer, device = load_model()
