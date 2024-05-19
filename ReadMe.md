@@ -7,10 +7,14 @@
 
 </div>
 
+### Project description
 
 Welcome to **Lfahem**, an AI-powered chatbot designed to assist Moroccan citizens with their legal questions. 
 Lfahem provides reliable and accurate information about Moroccan laws, helping you understand your rights and obligations.
 
+### GenAI Challenge path 
+
+the path of this GenAI Challenge is the legal field in the moroccan law
 
 ## Information Sources
 
