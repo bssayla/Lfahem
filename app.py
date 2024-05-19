@@ -74,7 +74,7 @@ def main():
         device_map="auto",
     )
     
-    loader = TextLoader("output.txt")
+    loader = TextLoader("data/output.txt")
     documents = loader.load()
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
     all_splits = text_splitter.split_documents(documents)
@@ -95,7 +95,7 @@ def main():
         verbose=True
     )
 
-    st.title('My Model App')
+    st.title('Lfahem App')
 
     # Get user input
     user_input = st.text_input("Enter some text")
