@@ -45,3 +45,15 @@ pip install -r requirements.txt
 
 <img src="images/after1.jpeg" alt="image After RAG">
 
+
+## Jury Question 
+
+can i devide the heritage equally between my childrens a boy and a girl according to the moroccan law?
+
+### Before using RAG
+
+<img src="images/last_one no rag.png" alt="image Before RAG">
+
+### After using RAG
+
+<img src="images/last_one.png" alt="image After RAG">
