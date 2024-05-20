@@ -14,7 +14,7 @@ Lfahem provides reliable and accurate information about Moroccan laws, helping y
 
 ## GenAI Challenge path 
 
-the path of this GenAI Challenge is the legal field in the moroccan law
+the path of this GenAI Challenge is the legal field in the Moroccan law
 
 ## Information Sources
 
@@ -22,6 +22,10 @@ Lfahem utilizes the following primary sources for providing legal information:
 
 - **Code Pénal Marocain**: The Moroccan Penal Code, which covers criminal law.
 - **Code de la Famille Marocain**: The Moroccan Family Code, which governs family-related matters such as marriage, divorce, and child custody.
+
+# Models Used
+- **Meta-Llama-3-8B-Instruct** + RAG
+- **Google-gemma-7b-it** + RAG
 
 
 ## Clone the Repository
@@ -48,7 +52,7 @@ pip install -r requirements.txt
 
 ## Jury Question 
 
-can i devide the heritage equally between my childrens a boy and a girl according to the moroccan law?
+can I divide the heritage equally between my children a boy and a girl according to the Moroccan law?
 
 ### Before using RAG
 
@@ -58,6 +62,3 @@ can i devide the heritage equally between my childrens a boy and a girl accordin
 
 <img src="images/last_one.png" alt="image After RAG">
 
-## Demo Video
-
-We have reached the limitation of in HuggingFace in our space, that's why we did not record any demo Video.
